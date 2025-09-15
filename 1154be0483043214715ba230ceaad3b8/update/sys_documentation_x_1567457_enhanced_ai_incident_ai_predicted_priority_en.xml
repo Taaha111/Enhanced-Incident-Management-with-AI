@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ai_predicted_priority" label="AI Predicted Priority" language="en" table="x_1567457_enhanced_ai_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ai_predicted_priority</element>
+            <help/>
+            <hint/>
+            <label>AI Predicted Priority</label>
+            <language>en</language>
+            <name>x_1567457_enhanced_ai_incident</name>
+            <plural>AI Predicted Priorities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-13 06:33:12</sys_created_on>
+            <sys_id>1bd9f28083c07614715ba230ceaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>AI Predicted Priority</sys_name>
+            <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+            <sys_update_name>sys_documentation_x_1567457_enhanced_ai_incident_ai_predicted_priority_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-13 06:33:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
