@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1567457_enhanced.Incident AI Helper</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>Incident AI Helper</name>
+        <script><![CDATA[
+var IncidentAIHelper = Class.create();
+IncidentAIHelper.prototype = {
+  initialize: function() {},
+
+  getCategory: function(desc) {
+    desc = desc.toLowerCase();
+    if (desc.includes("email")) return "Software - Email";
+    if (desc.includes("login")) return "Access - Login";
+    if (desc.includes("server")) return "Infrastructure - Server";
+    return "General";
+  }
+};
+]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 06:47:58</sys_created_on>
+        <sys_id>e22c7e0483447614715ba230ceaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident AI Helper</sys_name>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_update_name>sys_script_include_e22c7e0483447614715ba230ceaad383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 06:47:58</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</application>
+        <file_path/>
+        <instance_id>58c1572e1bc186987d9d2f8dee4bcbf7</instance_id>
+        <instance_name>dev249481</instance_name>
+        <name>sys_script_include_e22c7e0483447614715ba230ceaad383</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1567457_enhanced.Incident AI Helper&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;Incident AI Helper&lt;/name&gt;&lt;script&gt;&lt;![CDATA[
+var IncidentAIHelper = Class.create();
+IncidentAIHelper.prototype = {
+  initialize: function() {},
+
+  getCategory: function(desc) {
+    desc = desc.toLowerCase();
+    if (desc.includes("email")) return "Software - Email";
+    if (desc.includes("login")) return "Access - Login";
+    if (desc.includes("server")) return "Infrastructure - Server";
+    return "General";
+  }
+};
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-13 06:47:58&lt;/sys_created_on&gt;&lt;sys_id&gt;e22c7e0483447614715ba230ceaad383&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Incident AI Helper&lt;/sys_name&gt;&lt;sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced"&gt;1154be0483043214715ba230ceaad3b8&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Enhanced Incident AI"&gt;1154be0483043214715ba230ceaad3b8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_e22c7e0483447614715ba230ceaad383&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-13 06:47:58&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>164570066</payload_hash>
+        <record_name>Incident AI Helper</record_name>
+        <reverted_from/>
+        <source>5d54ba8c834c3614715ba230ceaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 06:47:59</sys_created_on>
+        <sys_id>cc4d72cc83047614715ba230ceaad337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19941d4a7930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 06:47:59</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>804d72ccc8047614aef74c5e94dd0a37</update_guid>
+        <update_guid_history>804d72ccc8047614aef74c5e94dd0a37:164570066</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 14:51:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>99a3d525e9a941cc997acfdd7acccaa4</sys_id>
+        <sys_metadata>e22c7e0483447614715ba230ceaad383</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident AI Helper</sys_name>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_scope_delete display_value="">03a2a71f0d9b4fd1806515462f23bba9</sys_scope_delete>
+        <sys_update_name>sys_script_include_e22c7e0483447614715ba230ceaad383</sys_update_name>
+        <sys_update_version display_value="sys_script_include_e22c7e0483447614715ba230ceaad383">cc4d72cc83047614715ba230ceaad337</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 14:51:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

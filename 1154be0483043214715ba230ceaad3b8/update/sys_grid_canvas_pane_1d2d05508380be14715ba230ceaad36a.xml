@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="New Tab 1">6157855c83c87e14715ba230ceaad3fa</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2025-09-13 10:16:41">d12d05508380be14715ba230ceaad368</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 17:16:41</sys_created_on>
+        <sys_id>1d2d05508380be14715ba230ceaad36a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>6157855c83c87e14715ba230ceaad3fa</sys_name>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_1d2d05508380be14715ba230ceaad36a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 06:19:30</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>
