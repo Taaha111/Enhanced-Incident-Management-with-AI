@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>b975855c83887e14715ba230ceaad306New Tab 1</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:43:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b975855c83887e14715ba230ceaad306</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>b975855c83887e14715ba230ceaad306New Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_update_name>pa_tabs_b975855c83887e14715ba230ceaad306</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:43:07</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</application>
+        <file_path/>
+        <instance_id>58c1572e1bc186987d9d2f8dee4bcbf7</instance_id>
+        <instance_name>dev249481</instance_name>
+        <name>pa_tabs_b975855c83887e14715ba230ceaad306</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>b975855c83887e14715ba230ceaad306New Tab 1</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-13 16:43:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b975855c83887e14715ba230ceaad306</sys_id><sys_mod_count>1</sys_mod_count><sys_name>b975855c83887e14715ba230ceaad306New Tab 1</sys_name><sys_overrides/><sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package><sys_policy/><sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope><sys_update_name>pa_tabs_b975855c83887e14715ba230ceaad306</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-13 16:43:07</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>1395192152</payload_hash>
+        <record_name>b975855c83887e14715ba230ceaad306New Tab 1</record_name>
+        <reverted_from/>
+        <source>5d54ba8c834c3614715ba230ceaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:50:56</sys_created_on>
+        <sys_id>5c47c918830c7e14715ba230ceaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19943fcad210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:50:56</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>7d75855c33887e146ccfca7b05ea280a</update_guid>
+        <update_guid_history>7d75855c33887e146ccfca7b05ea280a:-1805573800,7d75855c33887e146ccfca7b05ea280a:-1805573800,7d75855c33887e146ccfca7b05ea280a:-1805573800,b175855c06887e144103cd8170b4cf08:15484906</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New Tab 1">d447c918830c7e14715ba230ceaad383</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:50:57</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>3f66b77f4e8e4b2397055f540112c341</sys_id>
+        <sys_metadata>b975855c83887e14715ba230ceaad306</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b975855c83887e14715ba230ceaad306New Tab 1</sys_name>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_scope_delete display_value="">03a2a71f0d9b4fd1806515462f23bba9</sys_scope_delete>
+        <sys_update_name>pa_tabs_b975855c83887e14715ba230ceaad306</sys_update_name>
+        <sys_update_version display_value="pa_tabs_b975855c83887e14715ba230ceaad306">5c47c918830c7e14715ba230ceaad37d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:50:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

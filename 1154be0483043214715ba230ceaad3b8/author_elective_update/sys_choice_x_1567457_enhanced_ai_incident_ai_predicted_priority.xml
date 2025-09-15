@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_1567457_enhanced_ai_incident" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="ai_predicted_priority" table="x_1567457_enhanced_ai_incident" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>ai_predicted_priority</element>
             <name>x_1567457_enhanced_ai_incident</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-09-13 06:40:46</sys_created_on>
-            <sys_id>9e9b360c83047614715ba230ceaad3a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>state</sys_name>
+            <sys_name>ai_predicted_priority</sys_name>
             <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
             <sys_policy/>
             <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
-            <sys_update_name>sys_choice_x_1567457_enhanced_ai_incident_state</sys_update_name>
+            <sys_update_name>sys_choice_x_1567457_enhanced_ai_incident_ai_predicted_priority</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-09-13 06:40:46</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>state</element>
+            <element>ai_predicted_priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>New</label>
+            <label>Critical</label>
             <language>en</language>
             <name>x_1567457_enhanced_ai_incident</name>
             <sequence>0</sequence>
@@ -30,18 +29,17 @@
             <sys_created_on>2025-09-13 06:40:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5a9b360c83047614715ba230ceaad3a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-09-13 06:40:46</sys_updated_on>
-            <value>new</value>
+            <value>critical</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>state</element>
+            <element>ai_predicted_priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>In Progress</label>
+            <label>High</label>
             <language>en</language>
             <name>x_1567457_enhanced_ai_incident</name>
             <sequence>1</sequence>
@@ -50,18 +48,17 @@
             <sys_created_on>2025-09-13 06:40:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5a9b360c83047614715ba230ceaad3a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-09-13 06:40:46</sys_updated_on>
-            <value>in progress</value>
+            <value>high</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>state</element>
+            <element>ai_predicted_priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Resolved</label>
+            <label>Moderate</label>
             <language>en</language>
             <name>x_1567457_enhanced_ai_incident</name>
             <sequence>2</sequence>
@@ -70,18 +67,17 @@
             <sys_created_on>2025-09-13 06:40:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>969b360c83047614715ba230ceaad3a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-09-13 06:40:46</sys_updated_on>
-            <value>resolved</value>
+            <value>moderate</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>state</element>
+            <element>ai_predicted_priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Closed</label>
+            <label>Low</label>
             <language>en</language>
             <name>x_1567457_enhanced_ai_incident</name>
             <sequence>3</sequence>
@@ -90,11 +86,10 @@
             <sys_created_on>2025-09-13 06:40:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d29b360c83047614715ba230ceaad3a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-09-13 06:40:46</sys_updated_on>
-            <value>closed</value>
+            <value>low</value>
         </sys_choice>
     </sys_choice>
 </record_update>

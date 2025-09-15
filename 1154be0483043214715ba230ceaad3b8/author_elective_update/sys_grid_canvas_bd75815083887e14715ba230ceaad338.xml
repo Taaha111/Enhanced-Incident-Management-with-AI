@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="New Tab 1">7575815083887e14715ba230ceaad337</legacy_page>
+        <name>New Tab 1</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:43:07</sys_created_on>
+        <sys_id>bd75815083887e14715ba230ceaad338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_update_name>sys_grid_canvas_bd75815083887e14715ba230ceaad338</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:43:07</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</application>
+        <file_path/>
+        <instance_id>58c1572e1bc186987d9d2f8dee4bcbf7</instance_id>
+        <instance_name>dev249481</instance_name>
+        <name>sys_grid_canvas_bd75815083887e14715ba230ceaad338</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="New Tab 1">7575815083887e14715ba230ceaad337</legacy_page><name>New Tab 1</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-13 16:43:07</sys_created_on><sys_id>bd75815083887e14715ba230ceaad338</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 1</sys_name><sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package><sys_policy/><sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope><sys_update_name>sys_grid_canvas_bd75815083887e14715ba230ceaad338</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-13 16:43:07</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>-1256820565</payload_hash>
+        <record_name>New Tab 1</record_name>
+        <reverted_from/>
+        <source>5d54ba8c834c3614715ba230ceaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:43:07</sys_created_on>
+        <sys_id>f175855c83887e14715ba230ceaad306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19943f583a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:43:07</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>b575855c3f887e143fadf57ddcd18105</update_guid>
+        <update_guid_history>b575855c3f887e143fadf57ddcd18105:-1256820565</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:50:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>85ef9587d1c24530bb1eb8d5cce59900</sys_id>
+        <sys_metadata>bd75815083887e14715ba230ceaad338</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_scope_delete display_value="">03a2a71f0d9b4fd1806515462f23bba9</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_bd75815083887e14715ba230ceaad338</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_bd75815083887e14715ba230ceaad338">f175855c83887e14715ba230ceaad306</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:50:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

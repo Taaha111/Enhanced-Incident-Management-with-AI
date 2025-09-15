@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="AI Incident Dashboard">4755c9d883887e14715ba230ceaad370</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:43:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b175855c83887e14715ba230ceaad30f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4755c9d883887e14715ba230ceaad370</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_b175855c83887e14715ba230ceaad30f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:43:07</sys_updated_on>
+        <tab display_value="New Tab 1">b975855c83887e14715ba230ceaad306</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</application>
+        <file_path/>
+        <instance_id>58c1572e1bc186987d9d2f8dee4bcbf7</instance_id>
+        <instance_name>dev249481</instance_name>
+        <name>pa_m2m_dashboard_tabs_b175855c83887e14715ba230ceaad30f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="AI Incident Dashboard">4755c9d883887e14715ba230ceaad370</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-13 16:43:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b175855c83887e14715ba230ceaad30f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>4755c9d883887e14715ba230ceaad370</sys_name><sys_overrides/><sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package><sys_policy/><sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_b175855c83887e14715ba230ceaad30f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-13 16:43:07</sys_updated_on><tab display_value="New Tab 1">b975855c83887e14715ba230ceaad306</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-7688441</payload_hash>
+        <record_name>4755c9d883887e14715ba230ceaad370</record_name>
+        <reverted_from/>
+        <source>5d54ba8c834c3614715ba230ceaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:43:07</sys_created_on>
+        <sys_id>f575855c83887e14715ba230ceaad375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19943f585460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:43:07</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>f175855c80887e14f0ed90a2ea68da11</update_guid>
+        <update_guid_history>f175855c80887e14f0ed90a2ea68da11:-7688441</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="AI Incident Dashboard">5847c918830c7e14715ba230ceaad3e9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-13 16:50:57</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>0f04764923bc4a06888d3e2501dd6224</sys_id>
+        <sys_metadata>b175855c83887e14715ba230ceaad30f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4755c9d883887e14715ba230ceaad370</sys_name>
+        <sys_package display_value="Enhanced Incident AI" source="x_1567457_enhanced">1154be0483043214715ba230ceaad3b8</sys_package>
+        <sys_parent display_value="">4755c9d883887e14715ba230ceaad370</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Enhanced Incident AI">1154be0483043214715ba230ceaad3b8</sys_scope>
+        <sys_scope_delete display_value="">03a2a71f0d9b4fd1806515462f23bba9</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_b175855c83887e14715ba230ceaad30f</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_b175855c83887e14715ba230ceaad30f">f575855c83887e14715ba230ceaad375</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-13 16:50:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
